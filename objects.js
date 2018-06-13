@@ -34,4 +34,4 @@ function updateObjectWithKeyAndValue(obj, key, value) {
   return Object.assign({}, obj, { [key]: value })
 }
 
-var playlist = {pop: "Britney Spears"};
+var playlist = {Britney Spears : ""};
